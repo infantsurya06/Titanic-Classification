@@ -44,9 +44,3 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-Feel free to customize this template according to your project's specific details and requirements. You can include additional sections such as project background, methodology, results, acknowledgments, etc., based on the complexity and scope of your project.
-
-Ensure that you provide clear and concise instructions for installation, usage, and contributing to your project. This will make it easier for others to understand and collaborate on your project.
-
-Once you've created your README file, commit and push it to your GitHub repository to make it accessible to others.
